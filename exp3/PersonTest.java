@@ -17,7 +17,7 @@ public class PersonTest {
             System.out.print("Enter Mobile : ");
             String mobile = sc.nextLine();
 
-            System.out.println("Enter Age : ");
+            System.out.print("Enter Age : ");
             int age = sc.nextInt();
             sc.nextLine();
 
